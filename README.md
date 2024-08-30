@@ -20,3 +20,9 @@ This guide will help you deploy a smart contract to Taiko.
 ### 2. Select a smart contract
 ### 3. Compile your smart contractcompile your smart contract
 ### 4. Deploy your smart contract
+
+## Steps
+### 1. Visit the Remix website Visit remix.ethereum.org.
+### 2. Select a smart contract
+### 3. Compile your smart contractcompile your smart contract
+### 4. Deploy your smart contract
