@@ -1,5 +1,6 @@
 # taiko_smart
 
+
 ## Deploy a contract
 This guide will help you deploy a smart contract to Taiko.
 
